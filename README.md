@@ -36,4 +36,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-## References: https://htmlcodex.com/online-shop-website-template/
+## References: https://htmlcodex.com/online-shop-website-template/, https://en.99designs.de/profiles/interframers/designs/1799509
+
+
+
+## Steps to follow 
+1: creating rootlayout
+2: designing different pages
+3: connect prisma and supabase
