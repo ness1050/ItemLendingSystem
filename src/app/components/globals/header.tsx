@@ -1,7 +1,9 @@
 "use client"
 
+
 import { useState } from "react"
 import Image from "next/image"
+import Logo from "../../assests/logo.svg";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -12,7 +14,7 @@ export default function Header() {
         
         {/* Logo */}
         <div className="flex items-center space-x-2">
-          <Image src="/icons/delivery-svgrepo-com.svg" alt="Logo" width={40} height={50} />
+          <Image src={Logo} alt="Logo" width={40} height={50} />
           <span className="text-2xl font-bold tracking-wide">ItemLending</span>
         </div>
 

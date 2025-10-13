@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Logo from "../../assests/logo.svg";
 
 export default function Footer() {
   return (
@@ -26,7 +27,7 @@ export default function Footer() {
 
         {/* Center: Logo */}
         <div className="flex flex-col items-center justify-center text-center">
-          <Image src="/icons/logo.svg" alt="Company logo" width={40} height={40} />
+          <Image src={Logo} alt="Company logo" width={40} height={40} />
           <div className="text-2xl font-bold text-yellow-400 mt-2">ItemLending</div>
           <p className="text-sm mt-1">Lend and Borrow Smarter</p>
         </div>
