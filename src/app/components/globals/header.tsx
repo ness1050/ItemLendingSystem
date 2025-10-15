@@ -22,7 +22,7 @@ export default function Header() {
         <nav className="hidden md:flex space-x-6">
           <a href="/" className="hover:text-yellow-400 transition">Home</a>
           <a href="/members" className="hover:text-yellow-400 transition">Members</a>
-          <a href="/items" className="hover:text-yellow-400 transition">Items</a>
+          <a href="./contract" className="hover:text-yellow-400 transition">Contracts</a>
           <a href="/about" className="hover:text-yellow-400 transition">About</a>
           <a href="/contact" className="hover:text-yellow-400 transition">Contact</a>
         </nav>
