@@ -35,10 +35,11 @@ Plattformen använder moderna Next.js-funktioner som **Server Components**, **Cl
 ## ⚙️ Installation
 ```bash
 # Klona repo
-git clone https://github.com/ingakonstigheter/e-commerce-maison-nova
+git clone https://github.com/ness1050/itemlendingsystem
 
 # Gå in i projektmappen
-cd e-commerce-maison-nova
+cd itemlendingsystem
+cd app/src
 
 # Installera beroenden
 npm install
