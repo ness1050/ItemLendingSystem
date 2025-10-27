@@ -3,7 +3,7 @@ import Logo from "../../assests/logo.svg";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300 py-10 mt-16">
+    <footer className="bg-gray-900 text-gray-300 py-10 mb-0 flex-grow">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-6">
         
         {/* Left: Social media */}
