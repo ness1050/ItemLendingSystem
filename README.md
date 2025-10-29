@@ -16,7 +16,7 @@ Byggd med **Next.js** och **TypeScript**, där produkter hanteras via **Supabase
 ## om Projektet
 Detta projekt är en **Itemlending system** byggd med **Next.js 15** och **TypeScript** som en del av en individual projekt. Plattformen är minimalistisk, responsiv och fokuserar på interaktivitet och användarvänlighet.  
 
-Vi använder **Supabase** som backend för att hantera produktdata, istället för externa API:er.  
+**Supabase** användes som backend för att hantera produktdata, istället för externa API:er.  
 
 Projektet har också varit en övning i **agilt och scrum method**, inklusive versionskontroll med Git/GitHub, projekthantering med GitHub Projects, samt fokus på **tillgänglighet** genom tester med WAVE.  
 
